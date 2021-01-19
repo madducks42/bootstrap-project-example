@@ -5,6 +5,7 @@ import RedBox from 'redbox-react'
 import App from '../components/App'
 
 document.addEventListener('DOMContentLoaded', () => {
+  
   let reactElement = document.getElementById('app')
 
   if (reactElement) {
